@@ -144,3 +144,15 @@ img{
     font-size: 20px;
     font-weight: bold;
 }
+
+/*footer*/
+
+
+.copyright{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    color: #E5E7EB;
+    padding: 40px;
+    font-weight: bold;
+}
